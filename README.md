@@ -1,0 +1,1 @@
+# cdnpkg-scrapper-node
